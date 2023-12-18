@@ -6,7 +6,7 @@
 код ниже надо ввести в окно командной строки!!!
 ```
 git clone https://github.com/nyoshaa/Parser-clean.git
-cd parser
+cd Parser-clean
 pip install bs4
 pip install requests
 python main.py
